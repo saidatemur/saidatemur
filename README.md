@@ -64,15 +64,6 @@ I've also completed a cybersecurity-focused internship at a **state digital gove
 - Cisco — Cybersecurity Fundamentals (7 modules): Network Defense, Endpoint Security, Firewalls & Cloud Security, Vulnerability Assessment & Risk Management, Incident Response, and more
 - TryHackMe — hands-on labs & CTF-style exercises
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saidatemur&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidatemur&layout=compact&hide_border=true" />
-
-</div>
-
 ---
 
 ## 🇹🇷 Hakkımda
@@ -106,9 +97,3 @@ Ayrıca bir **devlet dijital yönetişim kurumunda** siber güvenlik odaklı bir
 <div align="center">
 <sub>Thanks for visiting my profile! Feel free to reach out 🙌</sub>
 </div>
-
-
-<!---
-saidatemur/saidatemur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
